@@ -1,0 +1,66 @@
+body {
+    background-color: black;
+}
+
+.input {
+    border-style: ridge;
+    color:rgb(190, 58, 58);
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.textarea {
+    border-style: ridge;
+    color:rgb(204, 59, 59);
+    padding: 5px 10px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+
+.submit {
+    border-style: ridge;
+    color:  rgb(106, 100, 167);
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+
+}
+
+.text {
+    border-style: ridge;
+    color: rgb(199, 62, 62);
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    text-size-adjust: 20px;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.email {background-color: rgb(33, 43, 189);}
+
+.send_mail {background-color: blue;}
+
+.mail_from {background-color: rgb(30, 26, 153);}
+
+.mail_to {background-color: rgb(40, 25, 109);}
+
+.subject {background-color: rgb(20, 40, 131);}
+
+.message {background-color: rgb(42, 11, 128)}
+
+.submit {background-color: blue;}
+
+.count {background-color: rgb(30, 36, 124);}
